@@ -48,6 +48,9 @@ To play and run the game, you will need the following:
 
 ## How to Play
 
+https://github.com/Kimonic99/Challenge-project-Create-methods-in-CSharp-main/assets/64956153/28d3345d-e047-47d2-960c-5915d7a77fc4
+
+
 ### Controls
 
 - Use the **arrow keys** (Up, Down, Left, Right) to move the player character.
